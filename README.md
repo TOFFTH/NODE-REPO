@@ -80,17 +80,16 @@ cd example-helloworld
 
 
 npm install
-
-
+BHLBUU
 کد پایین ممکنه طول بکشه حتی ۵ دقیقه پس ت ااتمام صبر کنید
 
 npm run build:program-rust
 
 
 solana program deploy dist/program/hell
-
+V V
 npm run start
-
+B
 
 تمام در پایان یک ایدی پرو گرام میتده بهتون باید ببرید توی فرم زیر پر کنید و سابمیت کنید
 
