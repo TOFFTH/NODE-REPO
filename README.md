@@ -2,7 +2,7 @@
 LINUX
 ۱- نیاز به یک والت اتریومم دارید که پرایویسی کی رو کپی کنید و توش هم فاست اتریوم سپولیا داشته باشید  
 
-
+SUDO APT INSTALL GIT
 sudo apt install npm
 
 npm install -g yarn 
